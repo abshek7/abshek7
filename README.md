@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone, I am Abhishek</h1>
 
-[![abshek7's GitHub | Stats](https://stats.quine.sh/abshek7/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abshek7)
+
 
 
 - 🔭 I’m currently working on **Web audio visualizers using js**
