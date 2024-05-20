@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone, I am Abhishek</h1>
 
-
+[![abshek7's GitHub | Stats](https://stats.quine.sh/abshek7/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abshek7)
 
 
 - 🔭 I’m currently working on **Web audio visualizers using js**
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abshek7&show_icons=true&locale=en" alt="abshek7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abshek7&" alt="abshek7" /></p>
+
