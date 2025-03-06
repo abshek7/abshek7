@@ -19,11 +19,120 @@
 <img align="center" src="https://38.media.tumblr.com/4a02982f2498b37db7a051e8a7043373/tumblr_n98tnaULpd1tuk7i7o1_500.gif" alt="Loading" />
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="48" height="48" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="100">
+      <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+      </a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="100">
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask" width="48" height="48" />
+      </a>
+      <br>Flask
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" />
+      </a>
+      <br>Express.js
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.sqlite.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" />
+      </a>
+      <br>SQLite
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48" height="48" />
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="100">
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
+      </a>
+      <br>Pandas
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48" />
+      </a>
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="100">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+      </a>
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abshek7&show_icons=true&locale=en&layout=compact" alt="abshek7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abshek7&show_icons=true&locale=en" alt="abshek7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abshek7&" alt="abshek7" /></p>
-
+ 
